@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+.venv/
+env/
+
+.DS_Store
+
+# model + training artifacts
+outputs/*.npy
+outputs/*.pkl
+outputs/*.pt
+
+# keep figures (important)
+!outputs/figures/
