@@ -6,7 +6,7 @@ The agent learns how to set prices over time to maximize revenue while managing 
 
 ---
 
-## 🎯 Problem
+## Problem
 
 A seller has:
 - limited inventory
@@ -125,7 +125,7 @@ The RL agent learns a better trade-off between price and conversion than all bas
 ```
 ---
 
-## 🚀 How to run
+## How to run
 
 Train:
 python train.py
