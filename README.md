@@ -1,4 +1,4 @@
-# RL for Dynamic Pricing
+# 💰RL for Dynamic Pricing
 
 A reinforcement learning project for dynamic pricing under uncertain demand in a simulated e-commerce setting.
 
@@ -6,7 +6,7 @@ The agent learns how to set prices over time to maximize revenue while managing 
 
 ---
 
-## Problem
+## 🎯 Problem
 
 A seller has:
 - limited inventory
@@ -57,7 +57,7 @@ Sales are capped by remaining stock.
 
 ---
 
-## Model
+## 🤖 Model
 
 We use Deep Q-Network (DQN):
 
@@ -107,9 +107,9 @@ The RL agent learns a better trade-off between price and conversion than all bas
 
 ---
 
-## Project structure
+## 🛠 Project structure
 
-rl-dynamic-pricing/
+```rl-dynamic-pricing/
 ├── pricing_rl/
 │   ├── env.py
 │   ├── agent.py
@@ -122,10 +122,10 @@ rl-dynamic-pricing/
 ├── plot_results.py
 ├── outputs/
 └── tests/
-
+```
 ---
 
-## How to run
+##🚀 How to run
 
 Train:
 python train.py
@@ -135,3 +135,11 @@ python evaluate.py
 
 Plots:
 python plot_results.py
+
+---
+
+## © Author
+
+Melidi Georgii, 2026
+
+This project is released under the MIT License.
