@@ -125,7 +125,7 @@ The RL agent learns a better trade-off between price and conversion than all bas
 ```
 ---
 
-##🚀 How to run
+## 🚀 How to run
 
 Train:
 python train.py
